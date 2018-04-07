@@ -49,7 +49,7 @@
 				<h2>Mekenita Cantina</h2>
 				<p>Come see us at our new location in Seminole Heights</p>
 				<p>&nbsp;</p>
-				<h3>We are scheduled to open before the holidays!</h3>
+				<h3>We are scheduled to open in March!</h3>
 				<p>&nbsp;</p>
 				<p>Visit our <a class="reg-link" href="http://www.mekenitamexicangrill.com" target="_blank">old site</a> for a gilmpse of our humble beginnings.</p>
 		</div>
